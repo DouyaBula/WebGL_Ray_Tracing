@@ -1,0 +1,21 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sliders {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    border: 5px solid rgb(255, 0, 0);
+}
